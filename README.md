@@ -1,8 +1,13 @@
-#MERN STACK BASED DASHBOARD
+# MERN STACK BASED DASHBOARD
 
 We will be using CRUD principles:
-Create
-Read 
-Update
-Delete
+
+- Create
+
+- Read 
+
+- Update
+
+- Delete
+
 
